@@ -6,6 +6,7 @@ int main()
 	int i = 0;
 
 	assert(i);
+
 	exit(0);
-}
+oalsaa}
 
